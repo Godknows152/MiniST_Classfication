@@ -1,0 +1,2 @@
+# MiniST_Classfication
+使用LeNet对MiniST进行图像分类
